@@ -7,6 +7,10 @@ Git practice laboratory, detailing common usage about the platform and version/f
 
 ![Old Computer Image.](/OldComputerPixel.jpg)
 
+<h3>Code Examples </h3>
+
+```python print(2+3)```
+
 
 
 <h2>References </h2>
@@ -16,5 +20,6 @@ Git practice laboratory, detailing common usage about the platform and version/f
 [Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
 
 [Git documentation](https://git-scm.com/doc)
+
 
 Mauricio Monroy
