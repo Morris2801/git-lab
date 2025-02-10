@@ -5,6 +5,7 @@ Git practice laboratory, detailing common usage about the platform and version/f
 <h2>Contents </h2>
 <h3>Images</h3>
 
+![Old Computer Image.](/OldComputerPixel.jpg)
 
 
 
