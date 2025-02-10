@@ -11,6 +11,11 @@ Git practice laboratory, detailing common usage about the platform and version/f
 
 ```python print(2+3)```
 
+<h3>Lists</h3>
+
+[ ] Turn on GitHub Pages
+[ ] Outline my portfolio
+[ ] Introduce myself to the world
 
 
 <h2>References </h2>
