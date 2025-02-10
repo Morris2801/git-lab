@@ -1,5 +1,19 @@
 # Git and github laboratory
+<h2>Description </h2>
+Git practice laboratory, detailing common usage about the platform and version/file management
 
-Git practice laboratory
+<h2>Contents </h2>
+<h3>Images</h3>
+
+
+
+
+<h2>References </h2>
+
+[Github documentation](https://docs.github.com/en)
+
+[Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
+
+[Git documentation](https://git-scm.com/doc)
 
 Mauricio Monroy
