@@ -6,6 +6,7 @@ Git practice laboratory, detailing common usage about the platform and version/f
 <h3>Images</h3>
 
 ![Old Computer Image.](/OldComputerPixel.jpg)
+![Activity 4 Image.](/stickman.png)
 
 <h3>Code Examples </h3>
 
