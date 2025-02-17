@@ -3,8 +3,6 @@ b = int(input("Give me the second number: "))
 
 # Display the addition 
 print("Addition",a+b)
+
 # Display the substraction 
-
 print("Substraction: " a-b)
-
-# Display multiplication
